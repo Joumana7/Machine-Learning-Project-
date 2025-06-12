@@ -51,10 +51,13 @@ Fraud Detection:
 ## Models Implemented
  Financial Risk Assessment (Regression):
 Model	Rationale
+
 Linear Regression	Simple baseline, interpretable, performs well on linear data
+
 Ridge Regression	Handles multicollinearity and reduces overfitting
+
 KNN Regressor	Non-parametric, performance depends on k and scaling
-Evaluation Metrics:
+## Evaluation Metrics:
 
     MSE (Mean Squared Error)
 
@@ -63,10 +66,12 @@ Evaluation Metrics:
     MAE (Mean Absolute Error)
 
     R² Score
-
+## Models Implemented
 Credit Card Fraud Detection (Classification):
 Model	Rationale
+
 Logistic Regression	Interpretable and effective for linear problems
+
 KNN Classifier	Captures local structure, but sensitive to scaling and imbalance
 ## Evaluation Metrics:
 
