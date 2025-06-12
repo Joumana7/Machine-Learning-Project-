@@ -1,4 +1,4 @@
- Machine Learning Project: Financial Risk Assessment & Credit Card Fraud Detection
+## Machine Learning Project: Financial Risk Assessment & Credit Card Fraud Detection
  Project Overview
 
 This project involves applying machine learning techniques to two distinct datasets:
