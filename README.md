@@ -1,5 +1,5 @@
 ## Machine Learning Project: Financial Risk Assessment & Credit Card Fraud Detection
- Project Overview
+ ## Project Overview
 
 This project involves applying machine learning techniques to two distinct datasets:
 
@@ -25,7 +25,7 @@ Datasets
 
     Task: Binary Classification (heavily imbalanced)
 
- Preprocessing
+## Preprocessing
 Financial Risk Assessment:
 
     Missing Data: None
@@ -48,7 +48,7 @@ Fraud Detection:
 
     Data Cleaning: Removed duplicates and missing values.
 
- Models Implemented
+## Models Implemented
  Financial Risk Assessment (Regression):
 Model	Rationale
 Linear Regression	Simple baseline, interpretable, performs well on linear data
@@ -68,7 +68,7 @@ Credit Card Fraud Detection (Classification):
 Model	Rationale
 Logistic Regression	Interpretable and effective for linear problems
 KNN Classifier	Captures local structure, but sensitive to scaling and imbalance
-Evaluation Metrics:
+## Evaluation Metrics:
 
     Accuracy
 
@@ -80,7 +80,7 @@ Evaluation Metrics:
 
     Confusion Matrix
 
- Results Summary
+##  Results Summary
  Financial Risk Assessment:
 Model	R² (Test)	MSE (Test)	MAE (Test)	RMSE (Test)
 Linear Regression	0.9346	4.05	1.53	2.01
@@ -96,7 +96,7 @@ KNN Classifier	89.8%	0.99	0.82	0.90
 
     Conclusion: Logistic Regression performed better with balanced metrics. KNN showed decent results but suffered from lower recall and higher sensitivity to class imbalance.
 
- Technologies Used
+## Technologies Used
 
     Python
 
